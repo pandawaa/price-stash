@@ -13,13 +13,13 @@ const Navbar = () => {
       <nav className="nav">
         <Link href="/" className="flex items-center gap-1">
           <Image
-            src="/assets/icons/logo.svg"
-            width={27}
+            src="/assets/icons/logo1.png"
+            width={32}
             height={27}
             alt="logo"
           />
           <p className="nav-logo">
-            Price<span className="text-primary">Wise</span>
+            Price<span className="text-primary">Stash</span>
           </p>
         </Link>
 
